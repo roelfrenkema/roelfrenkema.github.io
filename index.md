@@ -11,7 +11,7 @@ Have fun with my musings.
 
 ### Youtube
 
-*[@codingmenace](https://www.youtube.com/@codingmenace) has great instructional videos on how the intergrate the ⚡Straico⚡ API into projects 
+* [@codingmenace](https://www.youtube.com/@codingmenace) has great instructional videos on how the intergrate the ⚡Straico⚡ API into projects 
 
 ### Other
 
