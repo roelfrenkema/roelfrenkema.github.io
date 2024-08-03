@@ -7,8 +7,9 @@
 * [AI section](#AI)
 * [Documentation](#Documentation)
 * [Hacking](#Hacking)
+* [Politics](#politics)
 
-### [AI]
+### [AI](#AI)
 
 * [ComfyUI FLUX example](https://comfyanonymous.github.io/ComfyUI_examples/flux/)
 * [Mem0](https://github.com/mem0ai/mem0)
@@ -23,23 +24,23 @@
 * [test-generation-web-ui Memoir+](https://github.com/brucepro/Memoir)
 * [Upscaler DB](https://openmodeldb.info)
 
-[Top](#Sections) - [Return to Index](/)
+[Top](#sections) - [Return to Index](/)
 
-### [Documentation]
+### [Documentation](#Documentation)
 
 * [CommonMark 0.31.2](https://spec.commonmark.org/0.31.2)
 * [Marauder](https://github.com/justcallmekoko/ESP32Marauder/wiki)
 * [Straico Api Doc](https://documenter.getpostman.com/view/5900072/2s9YyzddrR)
 * [Superbooga v2](https://www.reddit.com/r/LocalLLaMA/comments/18dohlt/tutorial_use_real_books_wiki_pages_and_even/)
 
-[Top](#Sections) - [Return to Index](/)
+[Top](#sections) - [Return to Index](/)
 
-### [Hacking]
+### [Hacking](#Hacking)
 
 * [raspberry-pi-zero-w-wifi-hacking-gad](https://thesmashy.medium.com/raspberry-pi-zero-w-wifi-hacking-gadget-63e3fa1c3c8d)
 * [Marauder Cheap Yellow Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)
 
-[Top](#Sections) - [Return to Index](/)
+[Top](#sections) - [Return to Index](/)
 
 ### [Politics](#politics)
 
