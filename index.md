@@ -19,3 +19,6 @@ Welcome to my little corner of the internet! I am glad you've stopped by and I h
 * [Blog Section](blog)
 * [Bookmarks](bookmarks.md)
 
+|-|-|
+|test 1|zo maar|
+|test 2|zomaar|
