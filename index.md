@@ -1,5 +1,5 @@
-# test index
+# Main index
 
-## will it show?
+## Welcome traveler.
 
-o dear 
+Have fun with my musings,
