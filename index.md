@@ -8,8 +8,8 @@ Welcome to my little corner of the internet! I am glad you've stopped by and I h
 ### Repositories
 
 | :--------------------- | :- |
-| [`PHP clsStraico`](https://github.com/roelfrenkema/clsStraico) | by Gramps[tm] |
-| [`Woven Snips RAG`](https://github.com/ekjaisal/WovenSnips) | Jaisal is a talented young student that created this great RAG implementation for the ⚡Straico⚡ community. |
+| [ PHP clsStraico ](https://github.com/roelfrenkema/clsStraico) | by Gramps[tm] |
+| [ Woven Snips RAG ](https://github.com/ekjaisal/WovenSnips) | Jaisal is a talented young student that created this great RAG implementation for the ⚡Straico⚡ community. |
 
 ### Youtube
 
