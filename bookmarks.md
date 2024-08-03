@@ -4,12 +4,12 @@
 
 ### [Sections](#sections)
 
-* [AI section](#AI)
-* [Documentation](#Documentation)
-* [Hacking](#Hacking)
+* [AI section](#ai)
+* [Documentation](#documentation)
+* [Hacking](#hacking)
 * [Politics](#politics)
 
-### [AI](#AI)
+### [AI](#ai)
 
 * [ComfyUI FLUX example](https://comfyanonymous.github.io/ComfyUI_examples/flux/)
 * [Mem0](https://github.com/mem0ai/mem0)
@@ -26,7 +26,7 @@
 
 [Top](#sections) - [Return to Index](/)
 
-### [Documentation](#Documentation)
+### [Documentation](#documentation)
 
 * [CommonMark 0.31.2](https://spec.commonmark.org/0.31.2)
 * [Marauder](https://github.com/justcallmekoko/ESP32Marauder/wiki)
@@ -35,7 +35,7 @@
 
 [Top](#sections) - [Return to Index](/)
 
-### [Hacking](#Hacking)
+### [Hacking](#hacking)
 
 * [raspberry-pi-zero-w-wifi-hacking-gad](https://thesmashy.medium.com/raspberry-pi-zero-w-wifi-hacking-gadget-63e3fa1c3c8d)
 * [Marauder Cheap Yellow Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)
