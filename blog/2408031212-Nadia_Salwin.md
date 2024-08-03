@@ -1,5 +1,7 @@
 # The following is a letter of a Swedish artist named Nadia Salwin. 
 
+[Return to Blog](/blog) - [Return to Index](/)
+
 I use it a lot in lectures I give about ADHD. In fact I read it out loud. A technique that is getting lost but is very effective. Now I post it here for people who do not understand us.
 
 ===
@@ -62,3 +64,4 @@ There you have to let us. And give us the opportunity, the chance to be exactly 
 
 This post was written by Nadia Salwin. You can find [her blog here](http://blogg.improveme.se/mardromsmorsan/).
 
+[Return to Blog](/blog) - [Return to Index](/)
