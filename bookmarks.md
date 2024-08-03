@@ -40,3 +40,7 @@
 * [Marauder Cheap Yellow Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)
 
 [Top](#Sections) - [Return to Index](/)
+
+### Politics
+
+* [Project 2025](https://www.mediamatters.org/project-2025/trump-and-his-allies-are-denying-any-association-project-2025-and-its-architects)
