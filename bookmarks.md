@@ -2,7 +2,7 @@
 
 [Return to Index](/)
 
-### [Sections]
+### [Sections](#sections)
 
 * [AI section](#AI)
 * [Documentation](#Documentation)
@@ -41,8 +41,8 @@
 
 [Top](#Sections) - [Return to Index](/)
 
-### [Politics]
+### [Politics](#politics)
 
 * [Project 2025](https://www.mediamatters.org/project-2025/trump-and-his-allies-are-denying-any-association-project-2025-and-its-architects)
 
-[Top](#Sections) - [Return to Index](/)
+[Top](#sections) - [Return to Index](/)
