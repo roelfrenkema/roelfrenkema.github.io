@@ -2,13 +2,13 @@
 
 [Return to Index](/)
 
-### Sections
+### [Sections]
 
 * [AI section](#AI)
 * [Documentation](#Documentation)
 * [Hacking](#Hacking)
 
-### AI
+### [AI]
 
 * [ComfyUI FLUX example](https://comfyanonymous.github.io/ComfyUI_examples/flux/)
 * [Mem0](https://github.com/mem0ai/mem0)
@@ -25,7 +25,7 @@
 
 [Top](#Sections) - [Return to Index](/)
 
-### Documentation
+### [Documentation]
 
 * [CommonMark 0.31.2](https://spec.commonmark.org/0.31.2)
 * [Marauder](https://github.com/justcallmekoko/ESP32Marauder/wiki)
@@ -34,13 +34,15 @@
 
 [Top](#Sections) - [Return to Index](/)
 
-### Hacking
+### [Hacking]
 
 * [raspberry-pi-zero-w-wifi-hacking-gad](https://thesmashy.medium.com/raspberry-pi-zero-w-wifi-hacking-gadget-63e3fa1c3c8d)
 * [Marauder Cheap Yellow Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)
 
 [Top](#Sections) - [Return to Index](/)
 
-### Politics
+### [Politics]
 
 * [Project 2025](https://www.mediamatters.org/project-2025/trump-and-his-allies-are-denying-any-association-project-2025-and-its-architects)
+
+[Top](#Sections) - [Return to Index](/)
