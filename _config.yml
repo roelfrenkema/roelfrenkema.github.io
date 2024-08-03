@@ -30,7 +30,7 @@ twitter_username: ""
 github_username:  roelfrenkema
 
 # Build settings
-theme: minima
+theme: tactile
 plugins:
   - jekyll-feed
 
