@@ -14,11 +14,11 @@ Welcome to my little corner of the internet! I am glad you've stopped by and I h
 ### Youtube
 
 |-|-|
-|* [@codingmenace](https://www.youtube.com/@codingmenace)| has great instructional videos on how the intergrate the ⚡Straico⚡ API into projects| 
+| [ @codingmenace ](https://www.youtube.com/@codingmenace) | has great instructional videos on how the intergrate the ⚡Straico⚡ API into projects |
 
 ### Other
 
 |-|-|
-|* [Blog Section](blog)||
-|* [Bookmarks](bookmarks.md)||
+| [ Blog Section ](blog) ||
+| [ Bookmarks ](bookmarks.md) ||
 
