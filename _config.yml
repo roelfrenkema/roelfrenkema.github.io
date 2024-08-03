@@ -30,7 +30,7 @@ twitter_username: ""
 github_username:  roelfrenkema
 
 # Build settings
-theme: tactile
+theme: cayman
 plugins:
   - jekyll-feed
 
