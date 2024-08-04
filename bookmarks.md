@@ -4,14 +4,14 @@
 
 ### [Sections](#sections)
 
-* [AI section](#ai)
+* [AI](#ai)
+* [AI Image](#aiimage)
 * [Documentation](#documentation)
 * [Hacking](#hacking)
 * [Politics](#politics)
 
 ### [AI](#ai)
 
-* [ComfyUI FLUX example](https://comfyanonymous.github.io/ComfyUI_examples/flux/)
 * [Mem0](https://github.com/mem0ai/mem0)
 * [Microsoft TTS](https://www.techspot.com/news/103761-microsoft-ai-speech-generator-achieves-human-parity-but.html)
 * [Straico API](https://documenter.getpostman.com/view/5900072/2s9YyzddrR)
@@ -22,9 +22,17 @@
 * [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 * [text-generation-webui extensions](https://github.com/oobabooga/text-generation-webui-extensions)
 * [test-generation-web-ui Memoir+](https://github.com/brucepro/Memoir)
-* [Upscaler DB](https://openmodeldb.info)
 
 [Top](#sections) - [Return to Index](/)
+
+### [AI Image](#aiimage)
+
+* [ComfyUI FLUX example](https://comfyanonymous.github.io/ComfyUI_examples/flux/)
+* [Lora training \(includes Flux\)](https://github.com/bghira/SimpleTuner/tree/main)
+* [Upscaler DB](https://openmodeldb.info)
+ 
+[Top](#sections) - [Return to Index](/)
+
 
 ### [Documentation](#documentation)
 
