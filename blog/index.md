@@ -4,7 +4,7 @@ At the intersection of psychology, psychiatry, and information technology, I aim
 
 [Return to Index](/)
 
-* [Nadia Salwin on ADHD](2408031212-Nadia_Salwin.md)
-* [Unleash the power of vision with Straico](2407191200-Unleash.md)
+* [Nadia Salwin on ADHD](2408031212-Nadia_Salwin.md) - 03-08-24
+* [Unleash the power of vision with Straico](2407191200-Unleash.md) - 19-07-24
 
 [Return to Index](/)
