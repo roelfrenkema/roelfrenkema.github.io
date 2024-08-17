@@ -21,4 +21,5 @@ Welcome to my little corner of the internet! I am glad you've stopped by and I h
 |-|-|
 | [ Blog Section ](blog) ||
 | [ Bookmarks ](bookmarks.md) ||
+| [ Blocked on CivitAI ](blocked) ||
 
