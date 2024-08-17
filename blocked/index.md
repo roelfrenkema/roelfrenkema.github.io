@@ -1,8 +1,9 @@
-# Main index
+# Blocked on CivitAI
 
-## Blocked on CivitAI
 ![Blocked](ComfyUI_2.png)
-A section that shows some of the most rediculous effects of CivitAI censoring.
+<img align="right" width="200" src="ComfyUI_2.png>
+
+## A section that shows some of the most rediculous effects of CivitAI censoring.
 
 | Subject | Block Reason |
 | ------- | ------------ |
