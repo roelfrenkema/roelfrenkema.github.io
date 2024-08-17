@@ -16,5 +16,5 @@
 |<img align="left" width="200" src="Chloe GraceMoretzFlux.jpeg">| Female swimwear/underwear |5488689||
 |<img align="left" width="200" src="arianagrande.jpeg">| Sexy Attire |5465241||
 |<img align="left" width="200" src="emmastone.png">| Mature |5488004||
-|<img align="left" width="200" src="emmawatson.png">| Mature | 5337526 | [!IMPORTANT] RESTORED |
+|<img align="left" width="200" src="emmawatson.png">| Mature | 5337526 | [Restored](https://civitai.com/images/23969735) |
 
