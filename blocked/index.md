@@ -8,6 +8,9 @@
  
  I was happy to see that after apealing the Emma Watson picture that I really like was restored. But because I think the whole process is fundamentally flawed I decided to no longer appeal and use this as a form of protest instead.
  
+ Instead of the image I will now post the block image above. On the post I will link to the original blocked image. Here I will keep track on all zaleous attempts to block my images.
+ 
+ 
 | Subject | Block Reason | Post | Remarks |
 | ------- | ------------ | ---- | ------- |
 |<img align="left" width="200" src="Chloe GraceMoretzFlux.jpeg">| Female swimwear/underwear |5488689||
