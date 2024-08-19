@@ -7,7 +7,7 @@ This section is dedicated to my work with AI, currently FLUX, on CivitAI. I crea
 
 [My blocked images](../blocked)
 
-### Lora's
+## Lora's
 
 If you like my work and want to support me consider sending me some buzz. It costs about 2000 buzz to burn a nice lora at 20 epochs. Every small donation helps bringing you the LoRa's people forget. Thank you XXX
 
@@ -17,3 +17,7 @@ If you like my work and want to support me consider sending me some buzz. It cos
 * [The Fat One](https://civitai.com/models/658111/thefatone?modelVersionId=736364)
 * [Greta Tunberg](https://civitai.com/models/659351/fluxgretathunberg?modelVersionId=737774)
 * [Volodymyr Zelenskyy](https://civitai.com/models/660372/fluxvolodymyrzelenskyy?modelVersionId=738957)
+
+## Work of others I like
+
+
