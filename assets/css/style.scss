@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
 .page-header {
-    background-image: banner.jpg;
+    background-image: url("banner.jpg");
 }
