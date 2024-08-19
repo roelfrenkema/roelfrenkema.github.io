@@ -1,6 +1,6 @@
 # CivitAI
 
-<img align="left" width="200" src="https://wiki.civitai.com/wiki/File:Logo_(Light).png" hspace="10"> 
+<img align="left" width="500" src="https://wiki.civitai.com/images/1/17/Logo_%28Light%29.png" hspace="10"> 
 This section is dedicated to my work with AI, currently FLUX, on CivitAI. I create LoRa's and art.
 
 ## Links
