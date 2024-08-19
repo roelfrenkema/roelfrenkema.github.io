@@ -18,6 +18,6 @@ Examples of this:
 |-|-|
 | [ @codingmenace ](https://www.youtube.com/@codingmenace) | has great instructional videos on how the intergrate the ⚡Straico⚡ API into projects |
 
-I also wrote a blog about them [with the title unleashed](/blog/2407191200-Unleash.md)
+I also wrote a blog about them [with the title unleashed](/blog/2407191200-Unleash)
 
 You can check their [page here](https://platform.straico.com/signup?fpr=roelf14) where you can find an invite to their discord.
