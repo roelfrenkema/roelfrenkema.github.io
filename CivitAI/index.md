@@ -11,6 +11,7 @@ This section is dedicated to my work with AI, currently FLUX, on CivitAI. I crea
 
 If you like my work and want to support me consider sending me some buzz. It costs about 2000 buzz to burn a nice lora at 20 epochs. Every small donation helps bringing you the LoRa's people forget. Thank you XXX
 
+* [Elon Musk](https://civitai.com/models/662137?modelVersionId=740990)
 * [Liar in Chief](https://civitai.com/models/650637/liarinchief?modelVersionId=727931)
 * [Super Bigote](https://civitai.com/models/654772/superbigote-flux1?modelVersionId=732530)
 * [Kamala Harris](https://civitai.com/models/656223/kamala-harris-flux?modelVersionId=734191)
