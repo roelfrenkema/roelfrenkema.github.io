@@ -33,3 +33,4 @@ I dont have much patience for them and block. Here my blocklist:
 * [Boltning](https://civitai.com/models/413466/boltning-realistic-lightning-hyper) SDXL Turbo
 * [Koda Diffusion Flux](https://civitai.com/models/653093/koda-diffusion-flux) Look at her other work too.
 * [@razz](https://civitai.com/user/razzz) So many LoRa 
+* [Fluxtration](https://civitai.com/models/651504/fluxtration-style-or-flux1dev-or-goofy-ai) I love this Flux LoRa please try
