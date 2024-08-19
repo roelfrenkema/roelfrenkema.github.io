@@ -1,6 +1,6 @@
 # CivitAI
 
-<img align="left" width="500" src="https://wiki.civitai.com/images/1/17/Logo_%28Light%29.png" hspace="10"> 
+<a href="https://civitai.com"><img align="left" width="500" src="https://wiki.civitai.com/images/1/17/Logo_%28Light%29.png" hspace="10"></a>
 This section is dedicated to my work with AI, currently FLUX, on CivitAI. I create LoRa's and art.
 
 ## Links
@@ -8,6 +8,8 @@ This section is dedicated to my work with AI, currently FLUX, on CivitAI. I crea
 [My blocked images](../blocked)
 
 ### Lora's
+
+If you like my work and want to support me consider sending me some buzz. It costs about 2000 buzz to burn a nice lora at 20 epochs. Every small donation helps bringing you the LoRa's people forget. Thank you XXX
 
 * [Liar in Chief](https://civitai.com/models/650637/liarinchief?modelVersionId=727931)
 * [Super Bigote](https://civitai.com/models/654772/superbigote-flux1?modelVersionId=732530)
