@@ -22,4 +22,5 @@ Welcome to my little corner of the internet! I am glad you've stopped by and I h
 | [ Blog Section ](blog) ||
 | [ Bookmarks ](bookmarks.md) ||
 | [ CivitAI ](CivitAI) ||
+| [ Straico ](https://platform.straico.com/signup?fpr=roelf14)| Will get its own section soon. |
 
