@@ -1,5 +1,7 @@
 # CivitAI
 
+[Return to Index](/)
+
 ![leaving](blocked/banner2.jpeg)
 
 ## Links

@@ -1,5 +1,7 @@
 # FLUX
 
+[Return to Index](/)
+
 ## Lora's
 
 * [Elon Musk](FLUX.Elon.Musk.safetensors)

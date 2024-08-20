@@ -1,5 +1,7 @@
 # Blocked on CivitAI
 
+[Return to Index](/) [Return to CivitAI](..)
+
 <img align="left" width="200" src="ComfyUI_6.png" hspace="10">
 
  A section that shows some of the most rediculous effects of CivitAI censoring.
