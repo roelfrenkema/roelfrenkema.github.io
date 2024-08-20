@@ -9,6 +9,7 @@ The Index.
 |-|-|
 | [ Blog Section ](blog) | The real ramblings |
 | [ Bookmarks ](bookmarks.md) | Bookmarks mostly fo me|
-| [ CivitAI ](CivitAI) | Meeting place for graphic AI|
 | [ Straico ](Straico)| A great AI platform with a great community |
+| [ FLUX ](FLUX) | My generative AI pages. Art and tools |
+| [ CivitAI ](CivitAI) | My experience with... |
 
