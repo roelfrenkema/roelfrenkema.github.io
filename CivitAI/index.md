@@ -5,7 +5,7 @@ This section is dedicated to my work with AI, currently FLUX, on CivitAI. I crea
 
 ## Links
 
-[My blocked images](../blocked)
+[My blocked images](blocked)
 
 ## Lora's
 
