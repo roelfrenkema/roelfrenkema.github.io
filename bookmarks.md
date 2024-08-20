@@ -8,6 +8,7 @@
 * [AI Image](#aiimage)
 * [Documentation](#documentation)
 * [Hacking](#hacking)
+* [Personal](#personal)
 * [Politics](#politics)
 
 ### [AI](#ai)
@@ -49,6 +50,10 @@
 * [Marauder Cheap Yellow Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)
 
 [Top](#sections) - [Return to Index](/)
+
+### [Personal](#personal)
+
+* [My Ko-Fi](https://ko-fi.com/roelfrenkema)
 
 ### [Politics](#politics)
 
