@@ -2,13 +2,11 @@
 
 <img align="left" width="200" src="ComfyUI_6.png" hspace="10">
 
- A section that shows some of the most rediculous effects of CivitAI censoring. It seems I drew the wrath of some infantiles who are now stalking me and report each single image I place.
+ A section that shows some of the most rediculous effects of CivitAI censoring.
+ Below you can see that these are not images that deserve the attention of the moderators.
+ I think the whole process is fundamentally flawed.
  
- Below you can see that these are not images that deserve the attention of the moderators. I wonder how long it will take for them to put 1 and 1 together and see a pattern?
- 
- I was happy to see that after apealing the Emma Watson picture that I really like was restored. But because I think the whole process is fundamentally flawed I decided to no longer appeal and use this as a form of protest instead.
- 
- Instead of the image I will now post the block image above. On the post I will link to the original blocked image. Here I will keep track on all zaleous attempts to block my images.
+ I will now post the block image above. On the post I will link to the original blocked image. Here I will keep track on all zaleous attempts to block my images.
  
  UPDATE: I just posted my last appeal. Here the text:
  
