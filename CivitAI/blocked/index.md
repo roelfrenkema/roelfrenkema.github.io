@@ -37,7 +37,12 @@ Most relevant paragraph would probably be this:
 
 So thats it. CivitAI explains my blocks with a "conservative high school dress code". I call BS. Just look at all the celebrity LoRa's they have and the images there. 
 
-
+UPDATE:  
+After my creative solution I thought would be beneficial to both parties I got
+![strike](stike.jpg)
+I dont give warning myself so action was taken
+![leaving](banner2.jpeg)
+Goodbye CivitAI , my subscription now goes to [Google Colab](https://colab.research.google.com/signup)
 
 | Subject | Block Reason | Post | Remarks |
 | ------- | ------------ | ---- | ------- |
