@@ -39,7 +39,7 @@ So thats it. CivitAI explains my blocks with a "conservative high school dress c
 
 UPDATE:  
 After my creative solution I thought would be beneficial to both parties I got
-![strike](stike.jpg)
+![strike](stike.png)
 I dont give warning myself so action was taken
 ![leaving](banner2.jpeg)
 Goodbye CivitAI , my subscription now goes to [Google Colab](https://colab.research.google.com/signup)
