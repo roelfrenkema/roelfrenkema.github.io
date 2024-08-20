@@ -1,6 +1,6 @@
 # CivitAI
 
-![leaving](banner2.jpeg)
+![leaving](blocked/banner2.jpeg)
 
 ## Links
 
@@ -8,5 +8,5 @@
 
 ## Lora's
 
-Not available on Civit AI anymore
+Not available on Civit AI anymore [find them here instead](../FLUX)
 
