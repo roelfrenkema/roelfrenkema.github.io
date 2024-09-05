@@ -12,4 +12,4 @@ The Index.
 | [ Straico ](Straico)| A great AI platform with a great community |
 | [ FLUX ](FLUX) | My generative AI pages. Art and tools |
 | [ CivitAI ](CivitAI) | My experience with... |
-
+| [ GPG/PGP Key ](gpg) | My public encryption key |
