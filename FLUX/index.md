@@ -6,6 +6,7 @@
 
 | Title | Description | Examples |
 | ----- | ----------- | -------- |
+| [Geert Wilders](https://huggingface.co/roelfrenkema/flux1.lora.geertwilders)| Geert Wilders. [https://en.wikipedia.org/wiki/Geert_Wilders](https://en.wikipedia.org/wiki/Geert_Wilders)|![Geert Wilders](geertw.png){: width="50%"}|
 | [Elon Musk](https://ko-fi.com/s/652bf9db98) |Elon Musk, a man striving to become more hated then Donald Trump. |![Elon Musk](Elon.png){: width="50%"}|
 | [Hunger](https://ko-fi.com/s/9eed5d891d) |After I noticed FLUX is not fond if negative setting I created this LoRa to be used for instance in creating artwork to expose bilionaires. |![Hunger](Hunger.png){: width="50%"}|
 | [Liar in Chief](https://ko-fi.com/s/6deb7d7875) |He earned this title, vote blue!|![Trump](Trump.png){: width="50%"}|
