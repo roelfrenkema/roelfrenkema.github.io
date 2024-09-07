@@ -32,8 +32,6 @@ github_username:  roelfrenkema
 # Build settings
 #theme: cayman
 remote_theme: pages-themes/cayman@v0.2.0
-  features:
-  - content.code.copy
 
 plugins:
   - jekyll-feed
