@@ -1,9 +1,6 @@
 # Straico an AI platform
 
-<img align="left" width="200" src="https://platform.straico.com/straico.svg" hspace="10">
-
-
-[Return to Index](/)
+<img align="left" width="200" src="https://platform.straico.com/straico.svg" hspace="10"> [Return to Index](/)
 
 
 
