@@ -2,7 +2,6 @@
 
 <img align="left" width="200" src="https://platform.straico.com/straico.svg" hspace="10">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q8124DNL)
 
 [Return to Index](/)
 
@@ -34,3 +33,5 @@ I also wrote a blog about them [with the title unleashed](/blog/2407191200-Unlea
 You can check their [page here](https://platform.straico.com/signup?fpr=roelf14) where you can find an invite to their discord.
 
 [Return to Index](/)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q8124DNL)
