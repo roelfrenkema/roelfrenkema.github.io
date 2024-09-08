@@ -21,7 +21,7 @@
 | [Geert Wilders](https://huggingface.co/roelfrenkema/flux1.lora.geertwilders)| Geert Wilders. [https://en.wikipedia.org/wiki/Geert_Wilders](https://en.wikipedia.org/wiki/Geert_Wilders)|![Geert Wilders](geertw.png){: width="50%"}|
 | [Elon Musk](https://huggingface.co/roelfrenkema/flux1.lora.elonmusk) |Elon Musk, a man striving to become more hated then Donald Trump. [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)|![Elon Musk](elon.jpg){: width="50%"}|
 | [Super Bigote](https://ko-fi.com/s/8f3389f132) |Maduro is a dictator surviving by the help of other dictators|![Maduro](Maduro.png){: width="50%"}|
-| [The Fat One](https://ko-fi.com/s/77e9a4f783) |Another dictator. They call Kim 'The Fat One' behind his back. |![Kim](Kim.png){: width="50%"}|
+| [The Fat One](https://huggingface.co/roelfrenkema/flux1.lora.kimjongun) |Another dictator. They call Kim 'The Fat One' behind his back. [https://en.wikipedia.org/wiki/Kim_Jong_Un](https://en.wikipedia.org/wiki/Kim_Jong_Un)|![Kim](Kim.png){: width="50%"}|
 
 
 ### Concepts
