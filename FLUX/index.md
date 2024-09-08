@@ -8,8 +8,8 @@
 
 | Title | Description | Examples |
 | ----- | ----------- | -------- |
-| [Kamala Harris](https://ko-fi.com/s/c7f7b3970b) |Center Left almost conservative. Maybe whats needed. Vote blue.|![Kamala](Kamala.png){: width="50%"}|
-| [Greta Tunberg](https://ko-fi.com/s/bc381b6396)|Greta is an example an a Gen-Z hero.|![Greta](Greta.png){: width="50%"}|
+| [Kamala Harris](https://huggingface.co/roelfrenkema/flux1.lora.kamalaharris) |Center Left almost conservative. Maybe whats needed. Vote blue. [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)|![Kamala](Kamala.png){: width="50%"}|
+| [Greta Tunberg](https://huggingface.co/roelfrenkema/flux1.lora.gretathunberg)|Greta is an example an a Gen-Z hero. [https://en.wikipedia.org/wiki/Greta_Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg)|![Greta](Greta.png){: width="50%"}|
 | [Volodymyr Zelenskyy](https://huggingface.co/roelfrenkema/flux1.lora.zelenskyy) |A charismatic leader that will go into history. Slava Ukraina [https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)|![Zelenskyy](Zelenskyy.png){: width="50%"}|
 
 
