@@ -1,8 +1,8 @@
 # Straico an AI platform
 
-<img align="left" width="200" src="https://platform.straico.com/straico.svg" hspace="10"> [Return to Index](/)
+[Return to Index](/)
 
-
+<img style="float: left; width: 200px; margin-right: 10px;" src="https://platform.straico.com/straico.svg"> 
 
 Straico is a very special AI platform, where it's owners Arturo and Juan, actualy work with the members. You can find the latest AI models,API access, tools and tips on Straico and animated discussions.
 In fact the platform is so popular that users are creating tools, software and videos to support it.
