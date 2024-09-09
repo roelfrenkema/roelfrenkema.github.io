@@ -33,4 +33,8 @@
 
 ## Comfy Workflows
 
-coming soon.
+### Cute Engine 1
+
+This is a advanced workflow for ComfyUI it offers switching between all models, wildcards, detailers and upscaling. Definitly not for beginners but if you can read the flow its for you. Pull the png into ComfuUI it has the flow inside.
+
+![Cute_Engine_1.png](Cute_Engine_1.png)
