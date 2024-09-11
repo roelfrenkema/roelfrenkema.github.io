@@ -1,3 +1,8 @@
+---
+layout: default
+title: Public Key
+---
+
 # My GPG/PGP Key
 
 [Return to Index](/)

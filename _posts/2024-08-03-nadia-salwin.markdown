@@ -1,3 +1,7 @@
+---                                                                                                                                                                             
+layout: default                                                                                                                                                                 
+title: Nadia Salwin                                                                                                                                                        
+---  
 # The following is a letter of a Swedish artist named Nadia Salwin. 
 
 [Return to Blog](/blog) - [Return to Index](/)

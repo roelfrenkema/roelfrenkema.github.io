@@ -1,3 +1,7 @@
+---
+layout: default
+title: Bookmarks
+---
 # Bookmark file
 
 [Return to Index](/)

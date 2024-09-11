@@ -1,3 +1,7 @@
+---                                                                                                                                                                             
+layout: default                                                                                                                                                                 
+title: FLUX Opinion                                                                                                                                                        
+---  
 # FLUX is great but not ready.
 
 [Return to Blog](/blog) - [Return to Index](/)
@@ -20,7 +24,7 @@ It is a SFW model so no rendering nudes. Hands are ok, incidentially you get lim
 Here the model shows it is not finished yet. Skin texture is really more Dall-E and MidJourney like. 
 
 |-|-|
-|![SDXL](Flux/view.png)|![FLUX](Flux/view2.png)|
+|![SDXL](/assets/Flux/view.png)|![FLUX](/assets/Flux/view2.png)|
 
 Images above show what I mean. Left my favorite SDXL model right FLUX
 

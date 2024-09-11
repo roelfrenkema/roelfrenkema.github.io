@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Main index
 
 ## Welcome traveler.
@@ -8,8 +11,7 @@ The Index.
 
 |-|-|
 | [ Blog Section ](blog) | The real ramblings |
-| [ Bookmarks ](bookmarks.md) | Bookmarks mostly fo me|
+| [ Bookmarks ](bookmarks) | Bookmarks mostly for myself|
 | [ Straico ](Straico)| A great AI platform with a great community |
 | [ FLUX ](FLUX) | My generative AI pages. Art and tools |
-| [ CivitAI ](CivitAI) | My experience with... |
 | [ GPG/PGP Key ](gpg) | My public encryption key |
