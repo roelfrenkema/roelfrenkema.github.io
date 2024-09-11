@@ -29,6 +29,8 @@ url: "https://roelfrenkema.github.io" # the base hostname & protocol for your si
 twitter_username: ""
 github_username:  roelfrenkema
 
+github: [metadata]
+
 # Build settings
 #theme: cayman
 remote_theme: pages-themes/cayman@v0.2.0
