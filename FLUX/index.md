@@ -33,12 +33,20 @@
 
 ## Comfy Workflows
 
-### Cute Engine 1
+### Basic Flow 1
 
-This is a basic workflow with the latest nodes in Comfyui.
+This is a basic workflow for ComfyUI it offers switching between full FLUX models. It has wildcards and upscaling. Is a good workflow for beginners.  Pull the png into ComfyUI it has the flow inside.
 
 ![Basic_Flow_1.png](Basic_Flow_1.png)
 
-This is a advanced workflow for ComfyUI it offers switching between all models, wildcards, detailers and upscaling. Definitly not for beginners but if you can read the flow its for you. Pull the png into ComfuUI it has the flow inside.
+### Moderate Flow 1
+
+This is a moderate workflow for ComfyUI it offers switching between normal as well as guff models, wildcards and upscaling. It's slightly more difficult but if you can read the flow its for you. Pull the png into ComfyUI it has the flow inside.
+
+![Moderate_Flow_1.png](Moderate_Flow_1.png)
+
+### Cute Engine 1
+
+This is a advanced workflow for ComfyUI it offers switching between all models, wildcards, detailers and upscaling. Definitly not for beginners but if you can read the flow its for you. Pull the png into ComfyUI it has the flow inside.
 
 ![Cute_Engine_1.png](Cute_Engine_1.png)
