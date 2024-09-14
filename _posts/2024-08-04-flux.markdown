@@ -1,0 +1,35 @@
+---                                                                                                                                                                             
+layout: default                                                                                                                                                                 
+title: FLUX Opinion                                                                                                                                                        
+---  
+# FLUX is great but not ready.
+
+[Return to Blog](/blog) - [Return to Index](/)
+
+## First impression.
+
+I am glad to see the team is back. The makers of SD and SDXL presented FLUX a few days ago. I imidiatly gave it a testrun on github and was impressed.
+Now I have it running FLUX1 Schnell at home and had a better look at it. And it is great all the way. It looks like the new professional model to go.
+
+## It does text.
+
+Something Stablility AI said SD3 would do but really failed and killed the launch. I gave it a few runs and is just does what ask for.
+
+## Anatomy.
+
+It is a SFW model so no rendering nudes. Hands are ok, incidentially you get limbs mingled. But less the SD3 or even SDXL.
+
+## Textures.
+
+Here the model shows it is not finished yet. Skin texture is really more Dall-E and MidJourney like. 
+
+|-|-|
+|![SDXL](/assets/Flux/view.png)|![FLUX](/assets/Flux/view2.png)|
+
+Images above show what I mean. Left my favorite SDXL model right FLUX
+
+## IMHO
+
+This model is going to be a winner if it can loose the Dall-e/MidJourney impressions. I have no daubt it will as there is a team behind it that works with academic precision.
+
+[Return to Blog](/blog) - [Return to Index](/)
