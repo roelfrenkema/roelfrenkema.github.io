@@ -29,7 +29,7 @@ Examples of this:
 |-|-|
 | [ @codingmenace ](https://www.youtube.com/@codingmenace) | has great instructional videos on how the intergrate the ⚡Straico⚡ API into projects |
 
-I also wrote a blog about them in the blog section.
+I also wrote a blog about them in the blog section. [Straico Unleashed]({% link collections/_posts/2024-07-19-unleash.markdown %})
 
 You can check their [page here](https://platform.straico.com/signup?fpr=roelf14) where you can find an invite to their discord.
 

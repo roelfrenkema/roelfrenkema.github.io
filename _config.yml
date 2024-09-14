@@ -31,6 +31,8 @@ github_username:  roelfrenkema
 
 github: [metadata]
 
+collections_dir: collections
+
 # Build settings
 #theme: cayman
 remote_theme: pages-themes/cayman@v0.2.0

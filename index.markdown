@@ -11,6 +11,7 @@ The Index.
 
 |-|-|
 | [ Blog Section ](blog) | The real ramblings |
+| [ Github Section ](github) | My github projects |
 | [ Bookmarks ](bookmarks) | Bookmarks mostly for myself|
 | [ Straico ](Straico)| A great AI platform with a great community |
 | [ FLUX ](FLUX) | My generative AI pages. Art and tools |
