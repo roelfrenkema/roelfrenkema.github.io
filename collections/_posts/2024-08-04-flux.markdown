@@ -4,7 +4,7 @@ title: FLUX Opinion
 ---  
 # FLUX is great but not ready.
 
-[Return to Blog](/blog) - [Return to Index](/)
+[⬅️](/blog) - [🏠](/)
 
 ## First impression.
 
@@ -32,4 +32,4 @@ Images above show what I mean. Left my favorite SDXL model right FLUX
 
 This model is going to be a winner if it can loose the Dall-e/MidJourney impressions. I have no daubt it will as there is a team behind it that works with academic precision.
 
-[Return to Blog](/blog) - [Return to Index](/)
+[⬅️](/blog) - [🏠](/)

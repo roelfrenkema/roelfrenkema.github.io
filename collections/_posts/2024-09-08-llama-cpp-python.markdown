@@ -7,7 +7,7 @@ title: Llama Cpp Python
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q8124DNL)
 
 
-[Return to Blog](/blog) - [Return to Index](/)
+[⬅️](/blog) - [🏠](/)
 
 I have used a plethora on UI to access LLM models. But most of them are designed badly or frustrate working with them.
 And as the saying goes, if you dont like it do it yourself. 
@@ -106,4 +106,4 @@ I hope this script is helpfull and can teach you some stuff. You can contact me 
 
 With thanks to [⚡straico.com⚡](https://straico.com) for supporting my work. You can support me to by using [this affiliate link](https://platform.straico.com/signup?fpr=roelf14) when subscribing to ⚡Straico⚡
 
-[Return to Blog](/blog) - [Return to Index](/)
+[⬅️](/blog) - [🏠](/)

@@ -7,7 +7,7 @@ title: Replicate easy training
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q8124DNL)
 
 
-[Return to Blog](/blog) - [Return to Index](/)
+[⬅️](/blog) - [🏠](/)
 
 I have been working to automate my worflow in training lora with the replicate API. I now work with a singli directory of images that will be fully automated captioned and send to replicate.
 
@@ -520,4 +520,4 @@ if __name__ == "__main__":
 
 Enjoy or wait for the whole script to appear on github with install manual.
 
-[Return to Blog](/blog) - [Return to Index](/)
+[⬅️](/blog) - [🏠](/)
