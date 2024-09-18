@@ -5,7 +5,7 @@ title: Public Key
 
 # My GPG/PGP Key
 
-[Return to Index](/)
+[🏠](/)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

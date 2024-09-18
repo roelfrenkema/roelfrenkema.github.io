@@ -3,7 +3,7 @@ layout: default
 title: clsStraico
 ---
 
-[github index](/github) [return to Index](/)
+[⬅️](/github) | [🏠](/)
  
 # A PHP class for the Straico API
 

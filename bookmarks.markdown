@@ -4,7 +4,7 @@ title: Bookmarks
 ---
 # Bookmark file
 
-[Return to Index](/)
+[🏠](/)
 
 ### [Sections](#sections)
 

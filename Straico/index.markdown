@@ -4,7 +4,7 @@ title: Straico AI
 ---
 # Straico an AI platform
 
-[Return to Index](/)
+[🏠](/)
 
 <img style="float: left; width: 200px; margin-right: 10px;" src="https://platform.straico.com/straico.svg"> 
 

@@ -3,7 +3,7 @@ layout: default
 title: My blogs.
 ---
 
-[Return to index](/)
+[🏠](/)
 
 <ul>
   {% for post in site.posts %}
