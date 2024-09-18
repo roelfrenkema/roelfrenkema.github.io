@@ -5,12 +5,5 @@ title: My Github projects.
 
 [Return to index](/)
 
-<ul>
-  {% for page in site.github %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-
+* [Class Straico](class-straico) A PHP api wrapper for Straico's API
+* [Replicate](replicate) A fast lora generation python app
