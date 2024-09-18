@@ -34,6 +34,12 @@ title: My Flux repository
 | ----- | ----------- | -------- |
 | [Hunger](https://ko-fi.com/s/9eed5d891d) |After I noticed FLUX is not fond if negative setting I created this LoRa to be used for instance in creating artwork to expose bilionaires. |![Hunger](Hunger.png){: width="50%"}|
 
+### ART
+
+| Title | Description | Examples |
+| ----- | ----------- | -------- |
+| [Mona Lisa](https://huggingface.co/roelfrenkema/flux1.lora.monalisa) |I made use of AI to make the painting realistic. NOT AN INTERPRETATION. [https://en.wikipedia.org/wiki/Mona_Lisa](https://en.wikipedia.org/wiki/Mona_Lisa) |![mona](mona.png){: width="50%"}|
+
 
 ## Comfy Workflows
 
@@ -54,3 +60,10 @@ This is a moderate workflow for ComfyUI it offers switching between normal as we
 This is a advanced workflow for ComfyUI it offers switching between all models, wildcards, detailers and upscaling. Definitly not for beginners but if you can read the flow its for you. Pull the png into ComfyUI it has the flow inside.
 
 ![Cute_Engine_1.png](Cute_Engine_1.png)
+
+### Master Flow 1
+
+The flow I work with. Has faceswap,wildcards,upscaling and img2img.
+
+![MasterFlow.png](MasterFlow.png)
+
